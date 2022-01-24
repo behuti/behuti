@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @behuti
-- 🪖  I'm currently woring at lululemon as a Front-end developer
+- 🪖  I'm currently woring at endava as a Front-end developer
 - 👀  I’m interested in Front-end development technologies and frameworks.
 - 🌱  I’m currently learning MERN Stack.
 
