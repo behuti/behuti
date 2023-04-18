@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @behuti
 - 🪖  I'm currently woring at Perficient as a Front-end developer
 - 👀  I’m interested in Front-end development technologies and frameworks.
-- 🌱  I’m currently learning Next.js and Redux.
+- 🌱  I’m currently learning Node.js, Next.js and Typescript.
 
 <!---
 behuti/behuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
