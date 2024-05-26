@@ -1,5 +1,4 @@
 - 👋  Hi, I’m @behuti
-- 🐱‍👤  I'm currently working at Perficient as a Senior Front-end developer
 - 👀  I’m interested in Front-end development technologies and frameworks.
 - 🌱  I’m currently learning Node.js, Next.js and Typescript.
 
