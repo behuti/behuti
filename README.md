@@ -1,8 +1,36 @@
-- 👋  Hi, I’m @behuti
-- 👀  I’m interested in Front-end development technologies and frameworks.
-- 🌱  I’m currently learning Node.js, Next.js and Typescript.
+# Hi there! I'm Eduardo Henao 👋
 
-<!---
-behuti/behuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend Dev | React & Next.js Specialist | Web Performance Enthusiast**
+
+I am a developer passionate about building fast, accessible, and scalable interfaces. I focus on code quality, project architecture, and guiding teams to reach their full potential.
+
+### 👨‍💻 About Me
+
+*   🚀 I have **over 13 years of experience** in software development.
+*   👥 For the past **3 years, I have worked as a Technical Lead**, guiding frontend teams and defining the architecture for complex projects.
+*   ⚡ I have a strong focus on **web performance optimization** and the continuous improvement of **Core Web Vitals**.
+*   🔭 I am currently **open to new opportunities and professional challenges** where I can contribute with my technical and leadership skills.
+
+### 🛠️ Tech Stack & Tools
+
+*   **Languages:** JavaScript, TypeScript
+*   **Ecosystem:** React.js, Next.js (15/16)
+*   **CMS & Enterprise:** Adobe Experience Manager (AEM), Wordpress
+*   **Specialties:** Frontend Architecture, Web Performance, State Management
+
+### 📈 GitHub Stats
+
+<!-- You can generate these badges at https://github.com/anuraghazra/github-readme-stats -->
+[![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+
+### 🏕️ Beyond the Code
+
+When I am not coding, I spend my time away from screens:
+*   🪈 I am an artisan and luthier under the name **Xue**, designing and crafting Native American style flutes tuned to G4 using lathes and laser cutting machines.
+*   📸 I enjoy photography with my Nikon, exploring analog aesthetics and grunge textures.
+*   🔨 I design and build my own furniture (like my workbench) and integrate concepts from Muisca cosmogony into my creative and musical projects.
+
+---
+📫 **Let's Connect!** 
+[LinkedIn](https://linkedin.com/in/eduardohenao) | Email: echenao@gmail.com
