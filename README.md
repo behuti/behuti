@@ -21,8 +21,8 @@ I am a developer passionate about building fast, accessible, and scalable interf
 ### 📈 GitHub Stats
 
 <!-- You can generate these badges at https://github.com/anuraghazra/github-readme-stats -->
-[![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=behuti&show_icons=true&theme=radical)](https://github.com/behuti)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behuti&layout=compact&theme=radical)](https://github.com/behuti)
 
 ### 🏕️ Beyond the Code
 
