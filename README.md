@@ -18,12 +18,6 @@ I am a developer passionate about building fast, accessible, and scalable interf
 *   **CMS & Enterprise:** Adobe Experience Manager (AEM), Wordpress
 *   **Specialties:** Frontend Architecture, Web Performance, State Management
 
-### 📈 GitHub Stats
-
-<!-- You can generate these badges at https://github.com/anuraghazra/github-readme-stats -->
-[![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=behuti)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=behuti&layout=compact&theme=radical)](https://github.com/behuti)
-
 ### 🏕️ Beyond the Code
 
 When I am not coding, I spend my time away from screens:
